@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "f0b85845cd6f7d2a42f9d1d1661b405b423562401a9fe3c42040255ffb10b334"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "index.html",
+      "sha256": "a069aa42146e2e05dca6987d398bf8c1a49cf7d4f3d1cd67bbaab9c8534d4eb9"
+    }
+  ],
+  "baseUrl": "https://wangyu16.github.io/test-gabvae-j2ue8t/",
+  "carriers": {
+    "md": {
+      "version": "1.4.0"
+    }
+  },
+  "config": {
+    "sha256": "11c3fc5c691fd6af2b3ef1607c1d136652ae0152a69e1f1e4fa7a9f87ceaab15"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "c7cb29c3ec8df7527da6201da022976024054b30834a00dd388f3827abf28c6b",
+      "kind": "md",
+      "output": "index.md.html",
+      "outputSha256": "a6849ae752582e21500017f79cd2fbbea933d82bb346fdddfd6c3c58b3d66ac6",
+      "path": "index.md",
+      "sha256": "08476a759aaf0a81f807bff6065acd3bd7d7fea0d197708f6544a6d47d2ea8be",
+      "title": "test-gabvae"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "7b326497f2eb21c263f5291c151ad6fbfe29556fb369a23faf4b31580abae40a",
+      "kind": "md",
+      "output": "study-guide/introduction.md.html",
+      "outputSha256": "7b503b86dd73db432a9dbe23cdf0ec3870d2e35721ba849920a1bd81eaa4ad52",
+      "path": "study-guide/introduction.md",
+      "sha256": "99b82117b2f7396f5057cefa38e5549f76e378cf5586591c948e415a52d028db",
+      "title": "Introduction",
+      "uid": "doc-47y1as8qjvb8"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "359d389ece266a2be2941250d25a1c1d5be413d3f1cdfad9ae2de7fe85356501"
+    }
+  ],
+  "generator": "orz-site 0.3.0",
+  "naming": "family",
+  "skipped": []
+}
